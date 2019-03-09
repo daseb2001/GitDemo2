@@ -17,6 +17,8 @@ else if (score>=80)
 	grade = "B";
 }
 //THis is to test Git
+//THis is to test Git
+//THis is to test Git2
 else 
 {
 	grade = "C";
