@@ -20,6 +20,7 @@ else if (score>=80)
 //THis is to test Git
 //THis is to test Git2
 //This is to test the brach made by gitdemo
+//Change from GitX
 else 
 {
 	grade = "C";
